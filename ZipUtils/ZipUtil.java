@@ -182,6 +182,7 @@ public class ZipUtil{
 
     /**
      * 执行shell脚本
+	 * shellPath 脚本的绝对路径
      */
     public static void  installShell(String shellPath){
 
